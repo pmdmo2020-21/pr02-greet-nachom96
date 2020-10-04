@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Greet</string>
+    <string name="main_btnGreet">Greet</string>
+    <string name="main_Mr">Mr.</string>
+    <string name="main_Mrs">Mrs.</string>
+    <string name="main_Ms">Ms.</string>
+    <string name="main_poli">Politely</string>
 </resources>
